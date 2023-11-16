@@ -4,14 +4,25 @@ author_profile: true
 title: " "
 
 header:
-  overlay_image: assets/images/Homepage-Header.png
+  image: assets/images/Homepage-Header.png
 
 intro: 
   - excerpt: "Die Liste Laut ist eine Wahlliste für den StuPa der Ruhr-Universität Bochum voller toller Leute!"
+
+classes:
+  - shrink-splash-image
 ---
 
 <link rel="shortcut icon" type="image/png" href="favicon.png">
+<link rel="stylesheet" href="/assets/css/style.css">
 
+<!-- <img 
+  src="/assets/images/Homepage-Header.png" 
+  alt="Der Spruch 'Sei LAUT', welcher um 45 Grad rotiert ist und sich regelmäßig wiederholt. Die einzelnen Wiederholungen wechseln zwischen den Schriftfarben blau, pink, rot-orange und gelb." 
+  style="width: 100vh;"
+  /> 
+{% include figure image_path="/assets/images/Homepage-Header.png" alt="Der Spruch 'Sei LAUT', welcher um 45 Grad rotiert ist und sich regelmäßig wiederholt. Die einzelnen Wiederholungen wechseln zwischen den Schriftfarben blau, pink, rot-orange und gelb." %}
+-->
 {% include feature_row id="intro" type="center" %}
 
 <div class="feature__wrapper">
