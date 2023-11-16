@@ -19,3 +19,16 @@ plugins:
 minimal_mistakes_skin: "contrast"
 locale: "de"
 lang: "de"
+
+search: true
+
+date_format: "%d.%m.%Y"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+      layout: single
