@@ -3,9 +3,12 @@ title: Liste Laut
 email: kontakt@laut-bochum.de
 description: >- 
   Die Liste Laut ist eine Wahlliste an der Ruhr-Universität Bochum voller toller Leute.
+logo: "/assets/images/LAUT-Logo.png"
+masthead_title: "LAUT"
 baseurl: "/"
 url: "https://laut-bochum.de"
 github_username: liste-laut-bochum
+repository: "liste-laut-bochum/liste-laut-bochum.github.io"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -16,3 +19,16 @@ plugins:
 minimal_mistakes_skin: "contrast"
 locale: "de"
 lang: "de"
+
+search: true
+
+date_format: "%d.%m.%Y"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+      layout: single
