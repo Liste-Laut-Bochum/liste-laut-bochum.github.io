@@ -1,5 +1,4 @@
 ---
-layout: single
 ---
 
 # This is a test post
