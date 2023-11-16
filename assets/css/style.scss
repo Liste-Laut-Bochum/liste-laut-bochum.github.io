@@ -1,7 +1,18 @@
 ---
 ---
+$lg-image-height: 500px;
+$sm-image-height: 100px;
 
-.shrink-splash-image .page__hero-image {
-  height: 500px;
-  object-fit: cover;
+@media (min-width: 900px) {
+  .shrink-splash-image .page__hero-image {
+    height: $lg-image-height;
+    object-fit: cover;
+  }
+}
+
+@media (max-width: 900px) {
+  .shrink-splash-image .page__hero-image {
+    height: $sm-image-height;
+    object-fit: cover;
+  }
 }
