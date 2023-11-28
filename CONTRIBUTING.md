@@ -9,6 +9,7 @@ Du willst helfen? Super! Bitte beachte dabei folgendes:
 4. Wenn nicht direkt offensichtlich ist, was dein Pull-Request erreichen möchte, schreibe eine kurze Beschreibung.
     - Die Beschreibung sollte auf Englisch sein.
 5. Labele deine Pull-Requests.
+6. Nutze "Squash-and-merge" zum mergen von Pull-Requests.
 
 Die Website ist mit [jekyll](https://jekyllrb.com/) und dem [minimal-mistakes-Theme](https://mmistakes.github.io/minimal-mistakes/) gebaut. Außerdem nutzen wir [rtx](https://github.com/jdx/rtx) zum einfachen verwalten von Ruby-Abhängigkeiten und Bibliotheken. Du kannst die Website lokal anzeigen lassen mit dem Befehl `bundle exec jekyll serve --incremental`.
 
