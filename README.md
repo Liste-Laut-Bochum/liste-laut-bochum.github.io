@@ -1,6 +1,6 @@
 # Liste LAUT
 
-Wir sind LAUT - LAUT, aktiv und transparent! Eine divers besetzte Liste welche sich für eine offenere Universität einsetzt. In diesem repository siehst du unsere Website, welche wir auf [laut-bochum.de](laut-bochum.de) hosten.
+Wir sind LAUT - LAUT, aktiv und transparent! Eine divers besetzte Liste welche sich für eine offenere Universität einsetzt. In diesem repository siehst du unsere Website, welche wir auf [laut-bochum.de](https://laut-bochum.de) hosten.
 
 ## Mitarbeit an der Website
 
