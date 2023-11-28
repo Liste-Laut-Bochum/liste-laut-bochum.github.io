@@ -10,6 +10,8 @@ Du willst helfen? Super! Bitte beachte dabei folgendes:
     - Die Beschreibung sollte auf Englisch sein.
 5. Labele deine Pull-Requests.
 
+Die Website ist mit [jekyll](https://jekyllrb.com/) und dem [minimal-mistakes-Theme](https://mmistakes.github.io/minimal-mistakes/) gebaut. Außerdem nutzen wir [rtx](https://github.com/jdx/rtx) zum einfachen verwalten von Ruby-Abhängigkeiten und Bibliotheken. Du kannst die Website lokal anzeigen lassen mit dem Befehl `bundle exec jekyll serve --incremental`.
+
 ## WICHTIG
 
 Falls du eine Schwachstelle oder ein Sicherheitsrisiko gefunden hast, schau [hier](SECURITY.md) nach um zu wissen wie du vorgehen sollst. 
