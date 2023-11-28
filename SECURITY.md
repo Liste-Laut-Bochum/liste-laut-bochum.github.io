@@ -12,4 +12,4 @@ Du kannst deine Meldung auf Deutsch oder Englisch verfassen. Sobald wir deinen B
 
 ## WICHTIG
 
-Falls du keine Schwachstelle sondern einen redaktionellen Fehler oder ähnliches gefunden haben, siehe [hier](CONTRIBUTING.md).
+Falls du keine Schwachstelle sondern einen redaktionellen Fehler oder ähnliches gefunden hast, siehe [hier](CONTRIBUTING.md).
