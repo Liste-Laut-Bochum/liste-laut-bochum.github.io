@@ -3,11 +3,53 @@
 
 @charset "utf-8";
 
+
+@font-face {
+  font-family: Lexend;
+  src: url(/assets/fonts/Lexend-Light.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: Lexend;
+  src: url(/assets/fonts/Lexend-Regular.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Lexend;
+  src: url(/assets/fonts/Lexend-Medium.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Lexend;
+  src: url(/assets/fonts/Lexend-SemiBold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Lexend;
+  src: url(/assets/fonts/Lexend-Bold.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Lexend;
+  src: url(/assets/fonts/Lexend-Black.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 800;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import url('https://fonts.googleapis.com/css?family=Lexend&display=swap');
 
 body {
-  font-family: 'Lexend';
+  font-family: Lexend;
 }
