@@ -9,17 +9,23 @@ Im Folgenden möchten wir Sie aufklären, wie Ihre Daten von uns verarbeitet wer
 Verantwortlich im Sinne der DSGVO ist:
 
 ```text
-[Name]
-[ladungsfähige Anschrift]
-[E-Mail-Adresse]
+Mia Motte Mallon
+c./.o Studierendenschaft a.d. Ruhr-Universität Bochum
+SH0/05
+Universitätsstraße 150
+44801
+kontakt@laut-bochum.de
 ```
 
 Unseren Datenschutzbeauftragten erreichen sie unter:
 
 ```text
-[Name]
-[ladungsfähige Anschrift]
-[gesonderte E-Mail-Adresse des Datenschutzbeauftragten]
+Mia Motte Mallon
+c./.o Studierendenschaft a.d. Ruhr-Universität Bochum
+SH0/05
+Universitätsstraße 150
+44801
+mallovbq@ruhr-uni-bochum.de
 ```
 
 
