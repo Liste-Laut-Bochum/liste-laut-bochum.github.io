@@ -32,3 +32,6 @@ defaults:
       show_date: true
       read_time: true
       layout: single
+
+exclude:
+  - "SECURITY.md"
