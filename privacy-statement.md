@@ -10,7 +10,7 @@ Verantwortlich im Sinne der DSGVO ist:
 
 ```text
 Mia Motte Mallon
-c./.o Studierendenschaft a.d. Ruhr-Universität Bochum
+c./.o Studierendenschaft a.d. Ruhr-Universität Bochum, Liste LAUT
 SH0/05
 Universitätsstraße 150
 44801
@@ -21,7 +21,7 @@ Unseren Datenschutzbeauftragten erreichen sie unter:
 
 ```text
 Mia Motte Mallon
-c./.o Studierendenschaft a.d. Ruhr-Universität Bochum
+c./.o Studierendenschaft a.d. Ruhr-Universität Bochum, Liste LAUT
 SH0/05
 Universitätsstraße 150
 44801
