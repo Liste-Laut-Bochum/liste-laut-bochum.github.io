@@ -1,5 +1,5 @@
 ---
-title: "Warum wir grade LAUT sind"
+title: "StuPa Check"
 ---
 
 Die StuPa-Wahlen stehen an, und wie jedes Jahr gibt es auch dieses Jahr wieder ein StuPa-Check, einen Wahl-O-Maten. Dort beantwortest du eine Reihe von Fragen und kriegst danach angezeigt, wie stark deine Meinung mit den Meinungen der einzelnen Listen übereinstimmt. Finden kannst du den Stupa-Check unter [stupa-bochum.de/stupa-check](https://stupa-bochum.de/stupa-check) .
