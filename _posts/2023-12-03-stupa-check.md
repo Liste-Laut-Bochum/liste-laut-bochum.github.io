@@ -2,9 +2,9 @@
 title: "StuPa Check"
 ---
 
-Die StuPa-Wahlen stehen an, und wie jedes Jahr gibt es auch dieses Jahr wieder ein StuPa-Check, einen Wahl-O-Maten. Dort beantwortest du eine Reihe von Fragen und kriegst danach angezeigt, wie stark deine Meinung mit den Meinungen der einzelnen Listen übereinstimmt. Finden kannst du den Stupa-Check unter [stupa-bochum.de/stupa-check](https://stupa-bochum.de/stupa-check) .
+Die StuPa-Wahlen stehen an, und wie jedes Jahr gibt es auch dieses Jahr wieder einen StuPa-Check, einen Wahl-O-Maten. Dort beantwortest du eine Reihe von Fragen und bekommst danach angezeigt, wie stark deine Meinung mit den Meinungen der einzelnen Listen übereinstimmt. Finden kannst du den Stupa-Check unter [stupa-bochum.de/stupa-check](https://stupa-bochum.de/stupa-check) .
 
-Auch wir als LAUt haben am Stupa-Check teilgenommen. Hier sind die Fragen sowie unsere Antworten darauf.
+Auch wir als LAUT haben am Stupa-Check teilgenommen. Hier sind die Fragen sowie unsere Antworten darauf.
 
  
 ### Der Schwerpunkt der Arbeit des Studierendenparlaments soll auf der Binnenverwaltung der Studierendenschaft (Feststellung des Haushalts, Kontrolle des AStA, Anpassung von Ordnungen etc.) und der Vertretung der Interessen der Studierendenschaft gegenüber der Hochschule und Dritten liegen. Andere Angelegenheiten (bspw. außenpolitische Stellungnahmen) sollen dahinter zurückstehen.
@@ -21,7 +21,7 @@ __Stimme: Enthaltung__
 Als Liste treten wir primär an, um Probleme anzugehen, welche direkt Studierendenschaft und Universität betreffen. Die dem StuPa zur Verfügung stehenden Mittel, sollten unserer Meinung nach primär mit diesem Ziel eingesetzt werden. Sofern entsprechende Kapazitäten vorhanden sind, könnten wir uns eine Unterstützung allgemeiner politischer Aktivitäten vorstellen, aber mit einem Fokus auf Themen, die für Studierende besonders relevant sind.
 
 
-### Der Sozialbeitrag beträgt insgesamt 362,50 €. Dieser besteht aus 120 € für das AkaFö, 220,02 € für das Semesterticket und 22,48 € für den AStA. Vom AStA–Anteil gehen zweckgebunden 1,00 € für das Schauspielhaus Bochum und 1,50 € für die Nutzung des Fahrradverleihsystems metropolradruhr ab. Der verbleibende, der Studierendenschaft frei verfügbare Betrag von 19,98 € soll gesenkt werden.
+### Der Sozialbeitrag beträgt insgesamt 362,50 €. Dieser besteht aus 120 € für das AkaFö, 220,02 € für das Semesterticket und 22,48 € für den A. Vom AStA–Anteil gehen zweckgebunden 1,00 € für das Schauspielhaus Bochum und 1,50 € für die Nutzung des Fahrradverleihsystems metropolradruhr ab. Der verbleibende, der Studierendenschaft frei verfügbare Betrag von 19,98 € soll gesenkt werden.
 
 __Stimme: Dagegen__
 
@@ -82,14 +82,14 @@ Diskriminierung ist oft schwer zu erkennen, vor allem, wenn man selbst nicht dav
 
 __Stimme: Enthaltung__
 
-E-Sport ist inzwischen in der Gesellschaft angekommen und spiegelt die Interessen einer breiten Zielgruppe wieder. Der Ausbau an der Rub ist allerdings bereits mit Hilfe des Gaminghubs gegeben. Wir sind daher der Meinung, dass es durchaus wichtigere Probleme gibt, die zunächst angegangen werden sollten. Die derzeitige Finanzierung sollte beibehalten werden.
+E-Sport ist inzwischen in der Gesellschaft angekommen und spiegelt die Interessen einer breiten Zielgruppe wieder. Der Ausbau an der RUB ist allerdings bereits mit Hilfe des Gaminghubs gegeben. Wir sind daher der Meinung, dass es durchaus wichtigere Probleme gibt, die zunächst angegangen werden sollten. Die derzeitige Finanzierung sollte beibehalten werden.
 
 
 ### Das Landes-ASten-Treffen (LAT) ist eine Interessenvertretung der Studierendenschaften in NRW, z. B. gegenüber der Landesregierung. Der AStA soll das LAT durch freiwillige Beiträge in Höhe von ca. 4.000 € jährlich finanziell unterstützen.
 
 __Stimme: Dafür__
 
-Wir benötigen einen Austausch zwischen den Asten in NRW, da wir so unser politische Macht bündeln und eher unsere Ziele in Düsseldorf umsetzen können. Außerdem kann der AStA vom Austausch mit den anderen ASten profitieren.
+Wir benötigen einen Austausch zwischen den ASten in NRW, da wir so unser politische Macht bündeln und eher unsere Ziele in Düsseldorf (Sitz der Landesregierung) umsetzen können. Außerdem kann der AStA vom Austausch mit den anderen ASten profitieren.
 
 
 ### Zum Bestehen eines Moduls kann grundsätzlich eine regelmäßige Anwesenheit vorausgesetzt werden (sog. Anwesenheitspflicht). Die Studierendenschaft soll sich dafür einsetzen, dass Anwesenheitspflichten bei Seminaren untersagt werden.
