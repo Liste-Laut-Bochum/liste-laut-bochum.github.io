@@ -46,6 +46,7 @@ Der nächste Wahltermin zum StuPa wurde einstimmig auf die Woche vom 25 - 29.11.
 ## TOP  8-13: Besetzung und Konstituierung der Ausschüsse
 Es wurden die Mitglieder der einzelnen Fraktion in die Ausschüsse gewählt. Für die Fraktion LAUT gibt es folgende Besetzung:
 
+
 | Ausschuss            | Mitglied | Stellvertretung | 
 | -------------------- | -------- | --------------- | 
 | Hauptausschuss       | Eleodie Krusche | *Keine* | 
